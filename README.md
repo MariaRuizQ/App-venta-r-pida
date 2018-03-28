@@ -28,9 +28,6 @@ Se creó  la aplicación móvil de nombre "Venta rápida" , la cual es  fácil d
 
 ### Conclusiones Benchmarking
 
-* Después de la investigación se encontró que el instituto Ugarte tienes muchos procesos presenciales a comparación de las instituciones con las que se realizó benchmarck.
-
-* El instituto Icpna es la única institución que tiene sus procesos automatizados, y cuenta con una muy buena información detallada de los cursos que ofrece.
 
 # Síntesis y definición
 
@@ -67,8 +64,6 @@ Flujo de administrador
 ## Prototipo alta fidelidad
 
   Se logro testear a 1 alumno, nod dio importantes observaciones.
-
-  ![Benchmarck](assets/images/digital.png)
 
   https://marvelapp.com/872eh67
 
